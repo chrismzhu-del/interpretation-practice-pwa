@@ -1,0 +1,20 @@
+口译练习工具 · Interpretation Practice Tool
+Copyright (c) 2026 Chris Zhu. All rights reserved.
+
+本软件仅供个人非商业使用。
+未经作者明确书面许可，任何人不得：
+- 将本软件用于任何商业目的（包括但不限于销售、捆绑推广、作为
+  付费服务的一部分提供）
+- 修改、反编译、逆向工程本软件，或基于本软件创建衍生作品
+- 以任何形式再次分发、转授权、出租或公开传播本软件的全部或
+  部分内容
+
+--------------------------------------------------------------------
+
+This software is provided for personal, non-commercial use only.
+Without explicit written permission from the author, you may NOT:
+- Use this software for any commercial purpose, including but not
+  limited to sale, bundling, or as part of a paid service
+- Modify, decompile, reverse-engineer, or create derivative works
+- Redistribute, sublicense, rent, or publicly disseminate this
+  software in whole or in part
